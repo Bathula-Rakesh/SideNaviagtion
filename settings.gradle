@@ -1,0 +1,4 @@
+rootProject.name = "SideNaviagtion"
+include ':app'
+include ':app:app2'
+include ':app2'
